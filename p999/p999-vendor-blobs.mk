@@ -141,7 +141,3 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p999/proprietary/lib/libkineto.so:system/lib/libkineto.so \
     vendor/lge/p999/proprietary/lib/librilswitch.so:system/lib/librilswitch.so
 
-# Nasty Browser Fix
-PRODUCT_COPY_FILES += \
-    vendor/lge/p999/proprietary/lib/libgui.so:system/lib/libgui.so
-

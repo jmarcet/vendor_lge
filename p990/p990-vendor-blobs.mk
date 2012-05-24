@@ -138,7 +138,3 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p990/proprietary/lib/libnvodm_hdmi.so:system/lib/libnvodm_hdmi.so \
     vendor/lge/p990/proprietary/lib/liblvvil.so:system/lib/liblvvil.so
 
-# Nasty Browser Fix
-PRODUCT_COPY_FILES += \
-    vendor/lge/p990/proprietary/lib/libgui.so:system/lib/libgui.so
-
