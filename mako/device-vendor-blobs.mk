@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES := \
     vendor/lge/mako/proprietary/ks:system/bin/ks \
     vendor/lge/mako/proprietary/mm-audio-send-cal:system/bin/mm-audio-send-cal \
     vendor/lge/mako/proprietary/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/lge/mako/proprietary/mpdecision:system/bin/mpdecision \
     vendor/lge/mako/proprietary/netmgrd:system/bin/netmgrd \
     vendor/lge/mako/proprietary/nl_listener:system/bin/nl_listener \
     vendor/lge/mako/proprietary/port-bridge:system/bin/port-bridge \
